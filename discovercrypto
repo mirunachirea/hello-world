@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Discover Crypto</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="favicon.ico" />
+	</head>
+	<body>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Play" >
+		<div id="topnav">
+		<ul>
+  			<li><a href="index.html">HOME</a></li>
+  			<li><a href="discovercrypto.html">DISCOVER CRYPTO</a></li>
+  			<li><a href="btc.html">BTC</a></li>
+			<li><a href="eth.html">ETH</a></li>
+			<li><a href="ltc.html">LTC</a></li>
+			<li><a href="xmr.html">XMR</a></li>
+			<li><a href="xrp.html">XRP</a></li>
+			<li><a href="zec.html">ZEC</a></li>
+			<li><a href="about.html">ABOUT</a></li>
+		</ul>
+		</div>
+		<section id="banner" class="bg-img" data-bg="spate3.jpeg">
+			<div class="inner">
+				<header>
+					<p>Discover Crypto</p>
+				</header>
+				</div>
+				</section>
+				<section id="one" class="wrapper post bg-img" data-bg="banner2.png">
+				<div class="inner">
+					<article class="box">
+						<header>
+							<h2>Nibh non lobortis mus nibh</h2>
+							<p>01.01.2017</p>
+						</header>
+						<div class="content">
+							
+						</div>
+
+					</article>
+				</div>
+			</section>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

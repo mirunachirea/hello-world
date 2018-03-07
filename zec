@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Zcash</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="favicon.ico" />
+	</head>
+	<body>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Play" >
+		<div id="topnav">
+		<ul>
+  			<li><a href="index.html">HOME</a></li>
+  			<li><a href="discovercrypto.html">DISCOVER CRYPTO</a></li>  			
+			<li><a href="btc.html">BTC</a></li>
+			<li><a href="eth.html">ETH</a></li>
+			<li><a href="ltc.html">LTC</a></li>
+			<li><a href="xmr.html">XMR</a></li>
+			<li><a href="xrp.html">XRP</a></li>
+			<li><a href="zec.html">ZEC</a></li>
+			<li><a href="about.html">ABOUT</a></li>
+		</ul>
+		</div>
+		<section id="banner" class="bg-img" data-bg="spate3.jpeg">
+			<div class="inner">
+				<header>
+					<p>Zcash</p>
+					<div id="coin6">
+					<div class="side-a"></div>
+					<div class="side-b"></div>
+					</div>
+				</header>
+				</div>
+				</section>
+
+			<section id="one" class="wrapper post bg-img" data-bg="banner2.png">
+				<div class="inner">
+					<article class="box">
+						<header>
+							<h2>ZCASH</h2>
+							<p>(ZEC)</p>
+						</header>
+						<div class="content">
+							<p>Zcash is aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies. Zcash uses a special proof called zk-snark to secure the network. This allows the network to maintain a secure ledger of balances without disclosing parties or amounts involved in transactions. If Bitcoin is like http for money, Zcash is https - a secure transport layer.
+</p>
+<p>ZCash was founded by Zooko Wilcox-O'Hearn in October 2016 in an effort to address an open financial system with the privacy feature that internet users wanted. Zcash's supply model is rather similar to that of Bitcoin, although it has some key differences. Like Bitcoin, the Zcash protocol caps the total number of tokens at 21 million. In addition, its mining reward is cut in half roughly every four years, just like bitcoin- but one major difference that sets Zcash mining apart is that 10% of the 21m units mined using the Zerocash protocol will go to Zcash's stakeholders. This is called the "Founder's Reward".</p>
+						</div>
+
+					</article>
+				</div>
+			</section>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

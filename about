@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>About</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="favicon.ico" />
+	</head>
+	<body>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Play" >
+		<div id="topnav">
+		<ul>
+  			<li><a href="index.html">HOME</a></li>
+  			<li><a href="discovercrypto.html">DISCOVER CRYPTO</a></li>	
+			<li><a href="btc.html">BTC</a></li>
+			<li><a href="eth.html">ETH</a></li>
+			<li><a href="ltc.html">LTC</a></li>
+			<li><a href="xmr.html">XMR</a></li>
+			<li><a href="xrp.html">XRP</a></li>
+			<li><a href="zec.html">ZEC</a></li>
+			<li><a href="about.html">ABOUT</a></li>
+		</ul>
+		</div>
+		<section id="banner" class="bg-img" data-bg="spate3.jpeg">
+			<div class="inner">
+				<header>
+					<p>About</p>
+				</header>
+				</div>
+				</section>
+
+			<section id="one" class="wrapper post bg-img" data-bg="banner2.png">
+				<div class="inner">
+					<article class="box">
+						<header>
+							<h2>Meet the team</h2>
+						</header><br>
+						<div class="content">
+							<p>
+<img src="mira.png" style="width:150px;height:150px;" align="left">
+ Miruna Chirea is an Economics student at the University of Warwick, aspiring to a career in the financial sector. Her interest include game theory, astronomy and astrophysics, technology and psychological thriller movies.<br>
+Contact info:<br>
+email: <a id="bubu" href="mailto: mirunachirea@gmail.com">mirunachirea@gmail.com</a><br>
+LinkedIn: <a id="bubu" href="https://www.linkedin.com/in/miruna-chirea-96830714a/">Miruna Chirea</a><br>               
+
+</p>
+<p>
+<img src="jem.png" style="width: 150px;height:150px;" align="right">
+Jemmima Lim is currently a student at University of Warwick pursuing a degree in Economics. An active and bubbly person, she has varied interests, ranging from tech, banking and consulting to sports, martial arts and music.<br>
+Contact info:<br>
+email: <a id="bubu" href="mailto: jemmimalim@gmail.com">jemmimalim@gmail.com</a><br>
+LinkedIn: <a id="bubu" href="https://www.linkedin.com/in/jemmima-lim-20b9a5149/">Jemmima Lim</a>
+</p>
+
+						</div>
+
+					</article>
+				</div>
+			</section>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

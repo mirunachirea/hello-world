@@ -62,10 +62,7 @@
 								<li>Zcash</li>
 							</ul>
 						</div>
-
-
-
-			</header>
+					</header>
 			</div>
 			</section>
 			<section id="one" class="wrapper post bg-img" data-bg="banner.jpg">
@@ -111,7 +108,6 @@
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
 	</body>
 </html>
 

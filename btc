@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Bitcoin</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="favicon.ico" />
+	</head>
+	<body>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Play" >
+		<div id="topnav">
+		<ul>
+  			<li><a href="index.html">HOME</a></li>
+  			<li><a href="discovercrypto.html">DISCOVER CRYPTO</a></li>
+  			<li><a href="btc.html">BTC</a></li>
+			<li><a href="eth.html">ETH</a></li>
+			<li><a href="ltc.html">LTC</a></li>
+			<li><a href="xmr.html">XMR</a></li>
+			<li><a href="xrp.html">XRP</a></li>
+			<li><a href="zec.html">ZEC</a></li>
+			<li><a href="about.html">ABOUT</a></li>
+		</ul>
+		</div>
+		<section id="banner" class="bg-img" data-bg="spate3.jpeg">
+			<div class="inner">
+				<header>
+					<p>Bitcoin</p>
+					<div id="coin1">
+						<div class="side-a"></div>
+						<div class="side-b"></div></a>
+					</div>
+				</header>
+				</div>
+				</section>
+
+			<section id="one" class="wrapper post bg-img" data-bg="banner2.png">
+				<div class="inner">
+					<article class="box">
+						<header>
+							<h2>BITCOIN</h2>
+							<p>(BTC)</p>
+						</header>
+						<div class="content">
+				<p>Bitcoin is the first decentralized digital currency, as the system works without a central bank or single administrator. It is created as a reward for the process known as mining and can be exchanged for other currencies, products, and services.The bitcoin protocol specifies that the reward for adding a block will be halved every 210,000 blocks (approximately every four years). Eventually, the reward will decrease to zero, and the limit of 21 million bitcoins will be reached around the year 2140; the record keeping will then be rewarded by transaction fees solely.
+</p>
+<p>Bitcoin was invented by an unknown person or group of people under the name Satoshi Nakamoto and released as an open-source software in 2009.The virtual currency has been a constant source of interest and confusion since it thrust itself into the mainstream more than five years ago. But interest in Bitcoin is now greater than ever, with its sudden crash from $20,000 to under $8,000 - a drop of more than 50 per cent in little over a month - renewing a surge of trading, speculation and worry.</p>
+						</div>
+
+					</article>
+				</div>
+			</section>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+		</body>
+</html>

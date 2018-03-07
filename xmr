@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Monero</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="favicon.ico" />
+	</head>
+	<body>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Play" >
+		<div id="topnav">
+		<ul>
+  			<li><a href="index.html">HOME</a></li>
+  			<li><a href="discovercrypto.html">DISCOVER CRYPTO</a></li>
+			<li><a href="btc.html">BTC</a></li>
+			<li><a href="eth.html">ETH</a></li>
+			<li><a href="ltc.html">LTC</a></li>
+			<li><a href="xmr.html">XMR</a></li>
+			<li><a href="xrp.html">XRP</a></li>
+			<li><a href="zec.html">ZEC</a></li>
+			<li><a href="about.html">ABOUT</a></li>
+		</ul>
+		</div>
+		<section id="banner" class="bg-img" data-bg="spate3.jpeg">
+			<div class="inner">
+				<header>
+					<p>Monero</p>
+					<div id="coin4">
+					<div class="side-a"></div>
+					<div class="side-b"></div>
+					</div>
+				</header>
+				</div>
+				</section>
+
+			<section id="one" class="wrapper post bg-img" data-bg="banner2.png">
+				<div class="inner">
+					<article class="box">
+						<header>
+							<h2>MONERO</h2>
+							<p>(XMR)</p>
+						</header>
+						<div class="content">
+							<p>Unlike many cryptocurrencies that are derivatives of Bitcoin, Monero possesses significant algorithmic differences, being based on the CryptoNight proof-of-work hash algorithm, which comes from the CryptoNote protocol. By providing a high level of privacy, Monero is fungible, meaning that every unit of the currency can be substituted by another unit.</p>
+
+<p>Since it was launched in 2014, Monero has been headed by a group of 7 developers: David Latapie, Riccardo Spagni and 5 others who have chosen to remain anonymous. Monero's blockchain protects privacy in three ways. Ring signatures enable the sender to hide among other transaction outputs, stealth addresses hide the receiving address of the transaction and RingCT hides the amount of the transaction. As a consequence, Monero features an opaque blockchain. This is in sharp contrast with transparent and traceable blockchain used by Bitcoin. Thus, Monero is said to be "private, optionally transparent".</p>
+						</div>
+
+					</article>
+				</div>
+			</section>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

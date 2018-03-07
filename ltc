@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Litecoin</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="favicon.ico" />
+	</head>
+	<body>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Play" >
+		<div id="topnav">
+		<ul>
+  			<li><a href="index.html">HOME</a></li>
+  			<li><a href="discovercrypto.html">DISCOVER CRYPTO</a></li>
+			<li><a href="btc.html">BTC</a></li>
+			<li><a href="eth.html">ETH</a></li>
+			<li><a href="ltc.html">LTC</a></li>
+			<li><a href="xmr.html">XMR</a></li>
+			<li><a href="xrp.html">XRP</a></li>
+			<li><a href="zec.html">ZEC</a></li>
+			<li><a href="about.html">ABOUT</a></li>
+		</ul>
+		</div>
+		<section id="banner" class="bg-img" data-bg="spate3.jpeg">
+			<div class="inner">
+				<header>
+					<p>Litecoin</p>
+					<div id="coin3">
+					<div class="side-a"></div>
+					<div class="side-b"></div>
+					</div>
+				</header>
+				</div>
+				</section>
+
+			<section id="one" class="wrapper post bg-img" data-bg="banner2.png">
+				<div class="inner">
+					<article class="box">
+						<header>
+							<h2>LITECOIN</h2>
+							<p>(LTC)</p>
+						</header>
+						<div class="content">
+<p>Litecoin is, as of late 2017, the fourth largest digital currency circulating. Launched in October 2011, just under three years after the debut of its bigger brother, Bitcoin, Litecoin was created by former Google employee, Charlie Lee. Described by its creator as the "silver" to Bitcoin's gold, Litecoin was designed to emulate its predecessor, extolling the same virtues of decentralization but with a few key features that arguably make it a more nimble alternative.</p>							<p>Litecoin uses scrypt in its proof-of-work algorithm, a sequential memory-hard function requiring asymptotically more memory than an algorithm which is not memory-hard.The Litecoin Network aims to process a block every 2.5 minute and the developers claim that this allows Litecoin to have faster transaction confirmation. Also,an immediate advantage that Litecoin has over Bitcoin is the fact that it has a much lower cost of sending any denomination: $0.09, while the cost for BTC currently hovers around $5.00. 
+</p>
+						</div>
+
+					</article>
+				</div>
+			</section>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Ethereum</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="favicon.ico" />
+	</head>
+	<body>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Play" >
+		<div id="topnav">
+		<ul>
+  			<li><a href="index.html">HOME</a></li>
+  			<li><a href="discovercrypto.html">DISCOVER CRYPTO</a></li>
+  			<li><a href="btc.html">BTC</a></li>
+			<li><a href="eth.html">ETH</a></li>
+			<li><a href="ltc.html">LTC</a></li>
+			<li><a href="xmr.html">XMR</a></li>
+			<li><a href="xrp.html">XRP</a></li>
+			<li><a href="zec.html">ZEC</a></li>
+			<li><a href="about.html">ABOUT</a></li>
+		</ul>
+		</div>
+		<section id="banner" class="bg-img" data-bg="spate3.jpeg">
+			<div class="inner">
+				<header>
+					<p>Ethereum</p>
+					<div id="coin2">
+					<div class="side-a"></div>
+					<div class="side-b"></div>
+					</div>
+				</header>
+				</div>
+				</section>
+
+			<section id="one" class="wrapper post bg-img" data-bg="banner2.png">
+				<div class="inner">
+					<article class="box">
+						<header>
+							<h2>Ethereum </h2>
+							<p>(ETH)</p>
+						</header>
+						<div class="content">
+							<p>Ethereum is a rising star in the cryptocurrency world. It has quickly become the second largest digital currency in just over two years, booming in value and spurring the rise of hundreds of new rivals to Bitcoin.
+
+Created by Vitalik Buterin and launched in 2015, the value of ether (ethereum's currency) has increased rapidly. It suffered a set back before Christmas 2017, suddenly dropping from $850 to around $690 - a drop of about 20 per cent. Since then it has continued to show intense volatility, hitting highs of $1400 in January before slumping to less than $750.</p>
+<p>The name "Ethereum" comes from the word "ether",referring to the hypothetical invisible medium that permeates the universe and allows light to travel. Unlike Bitcoin, Ethereum operates using accounts and balances in a manner called state transitions, its block time is 14 to 15 seconds and mining of ether generates new coins at a usually consistent rate, occasionally changing during hard forks. Also, transaction fees are generally considerably lower for ether than for Bitcoin. In December 2017, the median transaction fee for ether corresponded to $0.33, while for bitcoin it corresponded to $23. 
+</p>
+						</div>
+
+					</article>
+				</div>
+			</section>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
